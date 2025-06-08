@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "791480986801",
+    "project_id": "act-hub-43a6b",
+    "storage_bucket": "act-hub-43a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791480986801:android:9a2fcaed2a3fb90f1d4690",
+        "android_client_info": {
+          "package_name": "com.example.act_hub_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791480986801-17uoi68ick9dj54u5tp9jsdbk2s5msno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97EmRPxnIsi3LPYRoMmH-XSBbp-pXePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791480986801-17uoi68ick9dj54u5tp9jsdbk2s5msno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791480986801-tjn9v50i0snt3gppngi1aoltu52upj49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.actHubMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791480986801:android:ddfdcffcfcdbcc921d4690",
+        "android_client_info": {
+          "package_name": "ps.acthub.actit.acthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791480986801-17uoi68ick9dj54u5tp9jsdbk2s5msno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97EmRPxnIsi3LPYRoMmH-XSBbp-pXePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791480986801-17uoi68ick9dj54u5tp9jsdbk2s5msno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791480986801-tjn9v50i0snt3gppngi1aoltu52upj49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.actHubMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

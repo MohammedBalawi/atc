@@ -1,0 +1,3 @@
+[submodule "signin_request"]
+	path = signin_request
+	url = https://github.com/Avatar-Company/Act-Hub-Mobile.git
